@@ -1,0 +1,5 @@
+body{margin:0;font-family:Arial;background:#111;color:#fff;text-align:center}
+.hero{padding:60px;background:linear-gradient(45deg,#ff4d6d,#ff8fa3)}
+.gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;padding:20px}
+.gallery img{width:100%;border-radius:18px;box-shadow:0 0 15px rgba(255,255,255,.2)}
+.letter{padding:20px;max-width:800px;margin:auto}
