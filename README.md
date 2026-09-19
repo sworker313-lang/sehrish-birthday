@@ -1,1 +1,13 @@
-# sehrish-birthday
+<!DOCTYPE html><html><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>
+<title>Happy Birthday Sehrish ❤️</title>
+<link rel='stylesheet' href='style.css'></head><body>
+<div class='hero'><h1>Happy Birthday Sehrish Bakhsh ❤️</h1><p>From Usman Ali</p></div>
+<div class='letter'><h2>💌 My Letter</h2><p>Meri jaan, I love you soo much. You are my best part of life. Since 4 March 2026, every memory feels special.</p></div>
+<div class='gallery'><img src='images/photo1.jpeg'><img src='images/photo2.jpeg'><img src='images/photo3.jpeg'><img src='images/photo4.jpeg'><img src='images/photo5.jpeg'><img src='images/photo6.jpeg'><img src='images/photo7.jpeg'><img src='images/photo8.jpeg'><img src='images/photo9.jpeg'><img src='images/photo10.jpeg'></div><script src='script.js'></script>
+    <div style='padding:20px'>
+    <h3>🎵 Kalyani Song</h3>
+    <audio controls autoplay loop>
+      <source src="kalyani.mp4" type="video/mp4">
+    </audio>
+    </div>
+    </body></html>
